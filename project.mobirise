@@ -25,7 +25,7 @@
     "publishType": "github",
     "publishPath": "file:///J:/htdocs/tutorials/MobiRise/Human%20Navigation",
     "versionFirst": "3.9.0",
-    "uniqCompNum": 30,
+    "uniqCompNum": 47,
     "versionPublish": "3.9.0"
   },
   "pages": {
@@ -69,7 +69,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
@@ -95,28 +95,8 @@
             }
           },
           "title": "WHAT'S NEW?",
-          "text": "The Navigate Humans Book will finaly available be available in Cape Town Books Store on the 15th of November 2016",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#faaf40",
-            "showMeta": true
-          },
-          "title": "Check out whats new on our social media accounts...",
-          "meta": ""
+          "text": "The Navigate Humans Book will finaly be available in Cape Town Books Stores...",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -203,31 +183,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Human Navigators</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">ORDER HARD COPY</a></li>"
-        },
-        {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-s",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "youtube": "",
-            "facebook": "mobirise",
-            "twitter": "mobirise",
-            "google": "",
-            "postToLoad": "2",
-            "bgImage": "@PROJECT_PATH@/assets/images/saflag-2000x1125-67.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#faaf40",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#7e9b9f"
-          }
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
         },
         {
           "_tags": [
@@ -284,7 +240,7 @@
           "title1": "Hlumelo Nyaluza",
           "subtitle1": "Meet the author of \"The Worlds Most Unique Book\"",
           "caption1": "Place of Birth: <br><i><b>King William's Town, EC</b></i><br><br>Current City: <br><i><b>Port Elizabeth</b></i><br><br>Role In Human Navigation: <br><b><i>HN Founder</i></b><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"HlumeloNyaluza/index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"HlumeloNyaluza.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/book-600x720-67.png",
@@ -300,7 +256,7 @@
           "title2": "Navigate Humans",
           "subtitle2": "Be Against Normality",
           "caption2": "The book has four elements that will challenge the reader’s mind, conﬁguring it to be against settling for mediocrity when everyone was created for greatness. These elements make it one of the most unique books to be released in the history of publication worldwide and it is here to shake, challenge and change people's lives.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download book</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Order Hard Copy</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download <br>book</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Order <br>Hard Copy</a> ",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/hnlogo-600x469-84.png",
@@ -316,19 +272,23 @@
           "title3": "HN Phelosophy",
           "subtitle3": "The Navigate Humans Book and the HN Phelosophy",
           "caption3": "The Human Navigation empire or philosophy is about empowering the extremely driven individuals that want to be industry leaders in respective fields. So, a Human Navigator is an individual that leads other peers in a field, showing them the path to the future. Hlumelo decided to carry out his main mission, of empowerment, through various avant-garde business ventures that he has designed and more commercial business projects of the future.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/contact-600x600-93.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Contact Hlumelo Nyaluza&nbsp;",
           "subtitle4": "Hlumelo and The HN are everywhere.",
           "caption4": "Contact us on the following social networks and email services.",
-          "button4": " <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(44, 130, 201);\"></span></a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span></a>",
+          "button4": " <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>Facebook</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>Twitter</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -379,7 +339,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -389,6 +349,58 @@
         "meta_descr": "Hlumelo\nNyaluza\nHN\nnavigate humans\nHuman Navigation"
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1a",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hlumelo-1400x1400-7.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Hlumelo Nyaluza",
+          "text": "<b>Hlumelo Nyaluza is a 24 year old visionary that was born and raised in a small location called Phakamisa near King Williams Town in the Eastern Cape</b>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -439,7 +451,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#faaf40!important"
             }
           },
           "_name": "ext.menu",
@@ -474,7 +486,181 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Human Navigators</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">ORDER HARD COPY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-17",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>He was raised by both parents, Nombulelo Grace Nyaluza and Zamuxolo Nyaluza, along with three older siblings Vuyisa, Luyolo and Sixolisiwe.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text1": "<p>.From a very young age, Hlumelo had a dream of inspiring his peers, validating their dreams through various activities and somehow making some of their dreams come true directly or indirectly. Instead of engaging in his peers' \"fun\" activities, he would collect, connect and engage them in activities that would inspire them. He would engage them in activities that would vividly paint the picture of where each one of those that partook in his talent validating activities were heading to in the mere future</p>",
+          "text2": "<p>. From that success, before his teenage years, he decided that his main dream in life is to make other dreams come true. That's where the HN (Hlumelo Nyaluza) Empire was born. Unfortunately his mom passed away from cancer a few weeks after he reached his teenage year.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text1": "As Hlumelo reached his teenage years, he strongly believed in his dreams especially when he saw real people doing something similar to his dream. At first it sounded like a fantasy to him but he saw the likes of Oprah Winfrey, Bill Gates, Patrice Motsepe and Richard Branson doing it through the various businesses they owned. Apart from his dreams.&nbsp;<p>&nbsp;</p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Hlumelo's main love has always been creation. In the process of creation he has always enjoyed being creative, coming up with better versions of things that existed or coming up with totally new invention, that's where the HN (Hlumelo Nyaluza) Empire was born. Unfortunately his mom passed away from cancer a few weeks after he reached his teenage year. As Hlumelo reached his teenage years, he strongly believed in his dreams especially when he saw real people doing something similar to his dream.</span><br></p>",
+          "text3": "<p>From his dream of making other dreams come true and the love for creation he decided to embark in the business world through experimentation. He would compile magazines, write cartoon scripts, form music bands, form dance crews, design clothing, teach his friends computer skills and more. He did all that in his teenage years trying to learn the various fields of the business industries he'll later tap into through trial and error.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "22px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-x",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/Kaos/AppData/Local/Mobirise.com/Mobirise/projectData/books-2000x2237-57_1.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hlumelo-600x600-28-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "HlumeloNyaluza/index.html",
+              "alt": "Navigate to Hlumelo Nyaluza's page",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Hlumelo Nyaluza",
+          "subtitle1": "Meet the author of \"The Worlds Most Unique Book\"",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/book-600x720-670.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https:bit.ly/2cCu0lg",
+              "alt": "image of hard cover book",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title2": "Navigate Humans",
+          "subtitle2": "Be Against Normality",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download <br>Book</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Order <br>Hard Copy</a> ",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hnlogo-600x469-841.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "the HN logo",
+              "alt": "the HN Phelosphy logo",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "HN Phelosophy",
+          "subtitle3": "The Navigate Humans Book and the HN Phelosophy",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"HNPhelosophy.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/contact-600x600-17.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Contact Hlumelo Nyaluza&nbsp;",
+          "subtitle4": "Hlumelo and The HN are everywhere.",
+          "caption4": "Contact us on the following social networks and email services.",
+          "button4": "  <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>Facebook</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>Twitter</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
@@ -534,7 +720,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#faaf40!important"
             }
           },
           "_name": "ext.menu",
@@ -569,7 +755,163 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Human Navigators</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">ORDER HARD COPY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cover-2000x658-9.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "&nbsp;",
+          "text": "<p>&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD SOFT COPY</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">ORDER HARD COPY</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-11",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hnlogol-copy-2000x480-23.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "HUMAN NAVIGATION",
+          "text": "<p>The HN Phelosophy&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>At the age of 17, Hlumelo finished his matric and moved to a city called Port Elizabeth. That is where he got the freedom to further discover himself and start officialising his dream. He started doing an official business project when he was given an opportunity to co-run an online magazine for a multi-million rand national students accommodation company called South Point. He proposed to have the position, he got it and he successfully co-ran the online magazine. It went from being online to being printed. Since he knew that his dream was bigger than him, he decided to change his desired empire from Hlumelo Nyaluza to Human Navigation to allow everyone to relate to it even when he's long gone.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-13",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>The empire also turned into a philosophy. The Human Navigation empire or philosophy is about empowering the extremely driven individuals that want to be industry leaders in respective fields. So, a Human Navigator is an individual that leads other peers in a field, showing them the path to the future. Hlumelo decided to carry out his main mission, of empowerment, through various avant-garde business ventures that he has designed and more commercial business projects of the future.&nbsp;</p>",
+          "text2": "<p>After co-running an online magazine for a multi-million Rand company, he started HN Clothing which was there to allow HN's target market to stand out from the rest (making affordable clothing that were extremely different from the other brands but wearable). He used the HN Clothing project to officially start and push the Human Navigation empire/philosophy.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>From the success of the awareness, Hlumelo was featured in several media interviews covering million of people in audience and HN started to be a movement as there were people that wanted to be a part of it. From HN Clothing, he designed an initiative called the Long Tie to Success which had a 3 metre long tie that was signed by more than twenty national celebrities to further inspire HN's target market..</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>From the success of the Long Tie to Success he got a radio gig as the breakfast show host on SA's second biggest online radio stations. As he likes challenging himself and being against the norm, he decided to host a 27 hour show on Mandela day, 2015. He spent 27 hours on radio inspiring the nations.</p>",
+          "text2": "<p>The show was a success as more than 13 countries outside South Africa tuned into the show and he unofficially broke the national record for most consecutive hours spent on air by a single deejay.</p>",
+          "text3": "<p>From the success of the show he decided to do his first ever commercial projects that will empower the world's visionaries, raise funds for his business endeavours that will further empower the underground visionaries and also raise funds to assist HN's target market financially in their endeavours as well. He wrote the world's most uniquely structured book in the current market titled Navigate Humans: Be Against Normality.op app.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-16",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Human Navigation 2016"
         }
       ]
     },
@@ -598,7 +940,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header-2000x659-19.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-2000x658-48.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -635,22 +977,7 @@
             "showMeta": true
           },
           "title": "Developed and designed by",
-          "meta": "Khanya Spotose"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>About Me</p><p>Age: 25</p><p><br></p><p>Place of Birth: Peddie, Eastern Cape</p><p><br></p><p>Interest: Technology, Innovation, Socializing, Youth Empowerment and Rural Development</p><p><br></p><p>Drive: I want to develop easy to use products that will better the lives of everyday South Africans. Products that can be used by the elderly and the current social generation, with ease.</p><p><br></p>",
-          "text2": "<p><br></p><p>I am currently studying my Btech and working part time as a bartender, although i have no real world experience in the IT industry, i have been coding since 2011 and had a passion for interacting with PC from 9years. Unfortunetly growing up in Peddie and later moving to Breidbach meant it would take me another 9 years before i could interact with a PC again. This period of time was speant learning new things and interacting with my fellow students, which is why today im regarded as one of the most social geeks around and also having received the “South Point Cyber Geek Award [2013]” which is given to the student who is the most active and social in the South Point House Com Facebook page of 2013.</p>",
-          "text3": "<p><br></p><p>However socialising and love for computers aren't all there is to me, I also enjoy the outdoors and being away from the keyboard once in a while, I am very family oriented and enjoy spending time with my with them. I also am a Cancer'viver having being diagnosed with cancer in 2014 during my btech year and started treatment in 2015, 2016 is the year I set out to gain not only my Btech but do as much as I can to help empower those around me with the necessary skills to improve their business through an online profile, which is why I did this website for free, to help empower not only the people on it, but raise an online profile for myself aswel.</p>"
+          "meta": "Khanya Spotose<br>Contact me bellow."
         },
         {
           "_inherit": "menu",
@@ -702,7 +1029,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#faaf40!important"
             }
           },
           "_name": "ext.menu",
@@ -737,7 +1064,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Human Navigators</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">ORDER HARD COPY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
         },
         {
           "_tags": [
@@ -787,7 +1114,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Khanya</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Send</a>"
         }
       ]
     }

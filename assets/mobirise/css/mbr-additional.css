@@ -418,10 +418,6 @@ h6,
   font-family: 'Oswald', sans-serif;
   text-align: left;
 }
-#header3-t .mbr-section-title,
-#header3-t .mbr-section-subtitle {
-  text-align: center;
-}
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -555,7 +551,19 @@ h6,
 }
 #ext_menu-9 .link[aria-expanded="true"],
 #ext_menu-9 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #faaf40!important;
+}
+#features1-x .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-x .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: left;
+}
+#features1-x SPAN {
+  font-size: 22px;
+}
+#features1-x .mbr-cards-col:nth-child(even) .card-text {
+  text-align: center;
 }
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
@@ -616,7 +624,15 @@ h6,
 }
 #ext_menu-a .link[aria-expanded="true"],
 #ext_menu-a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #faaf40!important;
+}
+#msg-box8-z .mbr-section-title,
+#msg-box8-z p {
+  color: #fff;
+}
+#msg-box8-11 .mbr-section-title,
+#msg-box8-11 p {
+  color: #fff;
 }
 #msg-box2-p .mbr-section-title {
   color: #fff;
@@ -687,5 +703,5 @@ h6,
 }
 #ext_menu-b .link[aria-expanded="true"],
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #faaf40!important;
 }
