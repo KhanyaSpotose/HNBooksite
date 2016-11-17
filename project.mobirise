@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HumanNavigation",
-    "currentPage": "index.html",
+    "currentPage": "HlumeloNyaluza.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -183,7 +183,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Human Navigators</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Philosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
         },
         {
           "_tags": [
@@ -269,8 +269,8 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "HN Phelosophy",
-          "subtitle3": "The Navigate Humans Book and the HN Phelosophy",
+          "title3": "HN Philosophy",
+          "subtitle3": "The Navigate Humans Book and the HN Philosophy",
           "caption3": "The Human Navigation empire or philosophy is about empowering the extremely driven individuals that want to be industry leaders in respective fields. So, a Human Navigator is an individual that leads other peers in a field, showing them the path to the future. Hlumelo decided to carry out his main mission, of empowerment, through various avant-garde business ventures that he has designed and more commercial business projects of the future.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -486,7 +486,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Human Navigators</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Philosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
         },
         {
           "_tags": [
@@ -591,7 +591,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/book-600x720-670.png",
+              "src": "@PROJECT_PATH@/assets/images/book-600x720-672.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -607,7 +607,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download <br>Book</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Order <br>Hard Copy</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hnlogo-600x469-841.png",
+              "src": "@PROJECT_PATH@/assets/images/hnlogo-600x469-843.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -755,7 +755,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Human Navigators</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Philosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
         },
         {
           "_styles": {
@@ -835,7 +835,7 @@
             "showButton": false
           },
           "title": "HUMAN NAVIGATION",
-          "text": "<p>The HN Phelosophy&nbsp;</p>",
+          "text": "<p>The HN Philosophy&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1064,7 +1064,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Human Navigators</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Phelosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HNPhelosophy.html\">HN Philosophy</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HlumeloNyaluza.html\">Hlumelo Nyaluza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Developer.html\">HN Web Designer</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"&quot;https://www.amazon.com/Navigate-Humans-Be-against-normality-ebook/dp/B01L978CKC/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1472627342&amp;sr=1-2&amp;keywords=navigate+humans\" target=\"_blank\">DOWNLOAD BOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https:bit.ly/2cCu0lg\">ORDER HARD COPY</a></li>"
         },
         {
           "_tags": [
